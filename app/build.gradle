@@ -4,7 +4,7 @@ plugins {
 
 android {
     compileSdk 34
-    namespace "New.Fox.Style"
+    namespace = "New.Fox.Style"
 
     defaultConfig {
         applicationId "New.Fox.Style"
